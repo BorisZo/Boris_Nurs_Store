@@ -1,0 +1,19 @@
+.appBar_container {
+  background-color: black !important;
+}
+.shopIcon {
+  color: rgb(137, 192, 248) !important;
+}
+.crudBtn {
+  color: rgb(137, 192, 248) !important;
+  margin: 3px !important;
+}
+.badgeBtn {
+  color: rgb(137, 192, 248) !important;
+}
+.contImgDetails {
+  display: flex;
+  width: 350px;
+  height: 450px;
+  margin: 15px;
+}

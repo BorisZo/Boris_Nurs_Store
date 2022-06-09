@@ -1,0 +1,33 @@
+.contImgDetails {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+img {
+  float: left;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btnED {
+  margin: 15 px !important;
+  height: 35px;
+  width: 55px;
+}
+#btnCRUD {
+  margin-left: 15 px !important;
+}
+.global {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 15px;
+}
+.imageDetails {
+  border-radius: 15px !important;
+  width: 350px !important;
+  height: 300px !important;
+}

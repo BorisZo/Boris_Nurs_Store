@@ -1,0 +1,20 @@
+.cart td {
+  padding: 10px 50px;
+  border-bottom: 1px solid gray;
+}
+.cart img {
+  width: 50px;
+  height: 40px;
+}
+.cartProduct {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue;
+}
+.tableCont {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue !important;
+}
+.cart {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

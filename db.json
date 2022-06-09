@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "title": "XIAOMI 11T ",
+      "type": "Xiaomi",
+      "description": "(8+128) EU",
+      "price": "350",
+      "img1": "https://softech.kg/image/cache/138e01ea7a471f86ce56b1a75fa25aa5.jpg",
+      "img2": "https://softech.kg/image/cache/138e01ea7a471f86ce56b1a75fa25aa5.jpg",
+      "img3": "https://softech.kg/image/cache/4d4b106206132406a00e75505ca347ef.jpg",
+      "id": 1
+    },
+    {
+      "title": "XIAOMI POCO F4 GT ",
+      "type": "Xiaomi",
+      "description": "(8+128) EU",
+      "price": "450",
+      "img1": "https://softech.kg/image/cache/f57e80a9dee0a7b4b267e934f0a1bd04.jpg",
+      "img2": "https://softech.kg/image/cache/6228ff0db252e068e06754273d8357ba.jpg",
+      "img3": "https://softech.kg/image/cache/e35ec0b141acc63d7c745b37025e7909.jpg",
+      "id": 2
+    },
+    {
+      "title": "XIAOMI POCO X4 PRO ",
+      "type": "Xiaomi",
+      "description": "(8+256) EU",
+      "price": "380",
+      "img1": "https://softech.kg/image/cache/b0d7911e42b577831da37a60b8ee7f01.jpg",
+      "img2": "https://softech.kg/image/cache/d5d4e31e3dc8d5b3bd97850368b30736.png",
+      "img3": "https://softech.kg/image/cache/a81e8bbe868ce6355d741bd1c9142845.png",
+      "id": 3
+    },
+    {
+      "title": "XIAOMI MI 11 ULTRA",
+      "type": "Xiaomi",
+      "description": " (12+512)",
+      "price": "650",
+      "img1": "https://softech.kg/image/cache/56283cbd6927e27cf8fd0168fa7db8d1.jpg",
+      "img2": "https://softech.kg/image/cache/c307bda1533350c7cfc1309177ec51f7.jpg",
+      "img3": "https://softech.kg/image/cache/54b583de047a905d2654dd64112d5fe6.jpg",
+      "id": 4
+    },
+    {
+      "title": "SAMSUNG GALAXY A33 ",
+      "type": "Samsung",
+      "description": "5G (6+128) EU",
+      "price": "300",
+      "img1": "https://softech.kg/image/cache/040339473929457826dffcfe662ba718.jpeg",
+      "img2": "https://softech.kg/image/cache/950e68bdc22d8e4d6cf32cd372d90424.jpg",
+      "img3": "https://softech.kg/image/cache/950e68bdc22d8e4d6cf32cd372d90424.jpg",
+      "id": 5
+    },
+    {
+      "title": "SAMSUNG GALAXY A23 ",
+      "type": "Samsung",
+      "description": "(4+128) EU",
+      "price": "200",
+      "img1": "https://softech.kg/image/cache/12e26432327ad705da1bcfddcdb5fb06.jpg",
+      "img2": "https://softech.kg/image/cache/931fd8ed49ee68fc5123cc547838abe7.jpg",
+      "img3": "https://softech.kg/image/cache/ee953f3ee0eeb4abe5ef78cacfb96099.jpg",
+      "id": 6
+    },
+    {
+      "title": "SAMSUNG GALAXY A22 ",
+      "type": "Samsung",
+      "description": "(4+64) EU",
+      "price": "180",
+      "img1": "https://softech.kg/image/cache/0b20613a573acc0d8f6153f71fa68a08.jpg",
+      "img2": "https://softech.kg/image/cache/0b20613a573acc0d8f6153f71fa68a08.jpg",
+      "img3": "https://softech.kg/image/cache/0b20613a573acc0d8f6153f71fa68a08.jpg",
+      "id": 7
+    },
+    {
+      "title": "SAMSUNG GALAXY M62 ",
+      "type": "Samsung",
+      "description": "(8+128) EU",
+      "price": "450",
+      "img1": "https://softech.kg/image/cache/147d7d60ddcb1b9b0c56b7663b935086.jpg",
+      "img2": "https://softech.kg/image/cache/147d7d60ddcb1b9b0c56b7663b935086.jpg",
+      "img3": "https://softech.kg/image/cache/147d7d60ddcb1b9b0c56b7663b935086.jpg",
+      "id": 8
+    },
+    {
+      "title": "APPLE IPHONE 13 ",
+      "type": "Apple",
+      "description": "128GB",
+      "price": "650",
+      "img1": "https://softech.kg/image/cache/58c23d1f61e4dbc4de648b66965a00dd.png",
+      "img2": "https://softech.kg/image/cache/0db4aab938fed30d2fdbe09fab4fb3cc.png",
+      "img3": "https://softech.kg/image/cache/e31450f113dd08bea905142b32e24961.png",
+      "id": 9
+    },
+    {
+      "title": "APPLE IPHONE 13  PRO",
+      "type": "Apple",
+      "description": "128GB",
+      "price": "750",
+      "img1": "https://softech.kg/image/cache/8af0e86156f176545b7e126cf9aef658.png",
+      "img2": "https://softech.kg/image/cache/521a5b643d000cc0dc25d7e202e7dc0e.png",
+      "img3": "https://softech.kg/image/cache/b736e618fb79c6a17209af793dd619c3.png",
+      "id": 10
+    },
+    {
+      "title": "APPLE IPHONE 13 PRO2",
+      "type": "Apple",
+      "description": " PRO 256",
+      "price": "750",
+      "img1": "https://softech.kg/image/cache/8af0e86156f176545b7e126cf9aef658.png",
+      "img2": "https://softech.kg/image/cache/b736e618fb79c6a17209af793dd619c3.png",
+      "img3": "https://softech.kg/image/cache/3938843f2251fe10e96e3a13fe10c3a5.png",
+      "id": 11
+    },
+    {
+      "title": "APPLE IPHONE 13 PRO3",
+      "type": "Apple",
+      "description": "PRO MAX  128GB",
+      "price": "850",
+      "img1": "https://softech.kg/image/cache/02bc8f67ae321d261ebdac4fc65402f3.png",
+      "img2": "https://softech.kg/image/cache/8237a944ba14e3b6a300361f1b571838.png",
+      "img3": "https://softech.kg/image/cache/d0e11e2f2ad57da3d3e90fae115966cd.jpg",
+      "id": 12
+    }
+  ]
+}
