@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
+
 import PrimarySearchAppBar from "./Components/Navbar/Navbar";
 import AuthContextProvider from "./context/AuthContext";
 import CartContextProvider from "./context/CartContext";
@@ -13,6 +14,7 @@ const App = () => {
         <CartContextProvider>
           <ProductContextProvider>
             <PrimarySearchAppBar />
+
             <MainRoutes />
           </ProductContextProvider>
         </CartContextProvider>

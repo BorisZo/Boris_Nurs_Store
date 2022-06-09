@@ -7,7 +7,6 @@ import { Box, Button, CardActionArea, CardActions, Grid } from "@mui/material";
 import { NavLink, useSearchParams } from "react-router-dom";
 import Filter from "../Filter/Filter";
 import { cartContext } from "../../context/CartContext";
-import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 import { productContext } from "../../context/ProductContext";
 import "./ProductList.css";
 
@@ -95,9 +94,9 @@ const ProductsList = () => {
                         Просмотр
                       </Button>
                     </NavLink>
-                    <Button onClick={() => addProductToCart(item)}>
+                    {/* <Button onClick={() => addProductToCart(item)}>
                       <AddShoppingCartIcon />
-                    </Button>
+                    </Button> */}
                   </CardActions>
                 </Card>
               </Grid>

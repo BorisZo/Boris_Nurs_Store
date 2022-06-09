@@ -52,7 +52,7 @@ const Cart = () => {
             </tbody>
           </table>
           <h4>Общая сумма: {cart.totalPrice}</h4>
-          <button>Оформить заказ</button>
+          {/* <button>Оформить заказ</button> */}
         </div>
       ) : (
         <h2>Loading...</h2>

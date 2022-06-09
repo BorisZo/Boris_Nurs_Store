@@ -5,10 +5,13 @@ import "./ProductDetail.css";
 import "swiper/css";
 import "./swiper.css";
 import SwiperCore, { Thumbs } from "swiper";
+import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
+import { cartContext } from "../../context/CartContext";
 
 SwiperCore.use([Thumbs]);
 
 const ProductsDetails = () => {
+  const { addProductToCart } = useContext(cartContext);
   const { productDetails, getProductsDetails, deleteProduct } =
     useContext(productContext);
   let { id } = useParams();
@@ -30,6 +33,12 @@ const ProductsDetails = () => {
               <NavLink to={`/edit/${id}`}>
                 <button className="btnED">edit</button>
               </NavLink>
+              <button
+                className="btnED"
+                onClick={() => addProductToCart(productDetails)}
+              >
+                <AddShoppingCartIcon />
+              </button>
             </div>
             <div className="innerText">
               <h2 className="titleText">Модель: {productDetails.title}</h2>
