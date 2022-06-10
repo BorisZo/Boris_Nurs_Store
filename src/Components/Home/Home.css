@@ -3,11 +3,21 @@
   height: 100% !important;
 } */
 
-.homePage {
-  color: bisque;
+.container-home {
+  color: rgb(251, 250, 248);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .wallpaper1 {
   width: 450px;
   height: 450px;
   border-radius: 15px;
+}
+img {
+  margin-top: 350 px !important;
+  height: 300px;
+  width: 100%;
+  border-radius: 15px;
+}
+h1 {
+  margin-left: 220px;
 }

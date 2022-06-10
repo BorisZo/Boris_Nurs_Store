@@ -6,14 +6,14 @@ body {
 }
 .cardMedia {
   width: 300px !important;
-  height: 300px !important;
+  height: 400px !important;
 }
 .titleText {
   color: aliceblue;
 }
 .imageDetails {
   width: 350px;
-  height: 400px;
+  height: 450px;
 }
 /* .contFull {
   display: grid !important;

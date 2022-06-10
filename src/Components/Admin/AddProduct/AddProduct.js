@@ -33,9 +33,7 @@ const AddProduct = () => {
       !inpValues.type.trim() ||
       !inpValues.description.trim() ||
       !inpValues.price.trim() ||
-      !inpValues.img1.trim() ||
-      !inpValues.img2.trim() ||
-      !inpValues.img3.trim()
+      !inpValues.img1.trim()
     ) {
       alert("Введите данные!");
       return;

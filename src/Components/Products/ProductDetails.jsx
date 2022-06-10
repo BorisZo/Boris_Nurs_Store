@@ -27,11 +27,11 @@ const ProductsDetails = () => {
               <img className="imageDetails" src={productDetails.img1} />
               <NavLink to="/list">
                 <button className="btnED" onClick={() => deleteProduct(id)}>
-                  delete
+                  Удал.
                 </button>
               </NavLink>
               <NavLink to={`/edit/${id}`}>
-                <button className="btnED">edit</button>
+                <button className="btnED">Изм.</button>
               </NavLink>
               <button
                 className="btnED"

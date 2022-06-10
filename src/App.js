@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
+import Footer from "./Components/Footer/Footer";
 
 import PrimarySearchAppBar from "./Components/Navbar/Navbar";
 import AuthContextProvider from "./context/AuthContext";
@@ -16,6 +17,7 @@ const App = () => {
             <PrimarySearchAppBar />
 
             <MainRoutes />
+            <Footer />
           </ProductContextProvider>
         </CartContextProvider>
       </AuthContextProvider>

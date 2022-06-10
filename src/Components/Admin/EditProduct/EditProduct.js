@@ -10,8 +10,6 @@ const EditProduct = () => {
 
   let { id } = useParams();
 
-  // const navigate = useNavigate();
-
   useEffect(() => {
     getProductsDetails(id);
   }, []);
